@@ -1,5 +1,4 @@
-# aws-ec2-static-website
-# Mini Project: Web Hosting on AWS EC2 with EBS Volume Backup
+# Web Hosting on AWS EC2 with EBS Volume Backup
 
 ## Project Overview
 This mini project demonstrates hosting a static website on an AWS EC2 instance with data persistence using an EBS volume backup.  
@@ -46,9 +45,6 @@ Successfully hosted a static website on AWS EC2 with reliable storage and backup
 - Understanding of cloud storage and backup concepts
 - Basic AWS deployment workflow
 - Real-world cloud project experience
-
-## Project Type
-Mini Project (AWS Cloud – Fresher Level)
 
 ## Author
 Aditi Gharge

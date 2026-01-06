@@ -21,7 +21,7 @@ Hosted a static website on AWS EC2 using Apache web server with data backup usin
 Website data is stored on EBS volume and backup is taken using EBS snapshot.
 
 ## Screenshots
-Project screenshots are saved in a Word file for reference.
+Project screenshots are saved in a pdf file for reference.
 
 ## Author
 Aditi Gharge
